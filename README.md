@@ -22,12 +22,6 @@
 </p>
 <br>
 
-- ✏️ 성신여자대학교 화학과, 컴퓨터공학과 복수전공
-- 🥉 프로보노 공모전 동상 방송통신대연합회장상 수상
-- 🏫 playdata cloud bootcamp 4기
-
-<br>
-
 <!--
 **na3150/na3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
