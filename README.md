@@ -3,6 +3,7 @@
 💬 I am a developer working 💬 I have project experience using 
 <br>
 <br>
+<a href="https://nayouns.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=blogger" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
