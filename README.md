@@ -20,7 +20,8 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=Ansible&logoColor=white""/></a>&nbsp
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white""/></a>&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white""/></a>&nbsp	
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white""/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-3371E3?style=flat-square&logo=Kubernetes&logoColor=white""/></a>&nbsp
 </p>
 <br>
 
