@@ -29,7 +29,7 @@
 
 - 정보처리기사
 - AWS SAA(Solutions Architect Associate)
-- AZ-900(Azure Funtamentals)
+- AZ-900(Azure Fundamentals)
 <br>
 
 
