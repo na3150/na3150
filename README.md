@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 😊 
 
-💬 I am a developer working 💬 I have project experience using 
+💬 I am a student interested in cloud☁ 
+<br>
+💬 I majored in chemistry and double majored in computer science.
 <br>
 <br>
-<a href="https://nayoungs.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=blogger" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://nayoungs.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 
@@ -23,7 +25,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white""/></a>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-3371E3?style=flat-square&logo=Kubernetes&logoColor=white""/></a>&nbsp
 </p>
+<h3 align="left">💡 Certificate 💡</h3>
+
+- 정보처리기사
+- AWS SAA(Solutions Architect Associate)
+- AZ-900(Azure Funtamentals)
 <br>
+
 
 <!--
 **na3150/na3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
