@@ -1,6 +1,6 @@
 ### Hi there 😊 
 
-💬 I am a student interested in cloud☁ 
+💬 I am a student interested in cloud☁ computing
 <br>
 💬 I majored in chemistry and double majored in computer science.
 <br>
