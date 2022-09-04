@@ -1,17 +1,21 @@
 ### Hi there 😊 
 
-💬 I am a student interested in cloud☁ computing
+💬 I am a student interested in ☁cloud☁ computing
 <br>
 💬 I majored in chemistry and double majored in computer science.
 <br>
 <br>
+<h3 align="center"> 💡 Me 💡 </h3>
+<p align="center">
 <a href="https://nayoungs.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+  <a href="mailto:na3150@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"&logo=Gmail&logoColor=white&link=na3150@gamil.com"/></a>
+</p><br>
 
-<h3 align="left">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="left"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used at least once </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -45,12 +49,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na3150)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align="center"> 
+	
+[![nayoung's github stats](https://github-readme-stats.vercel.app/api?username=na3150)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align=center>
 	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fna3150)](https://hits.seeyoufarm.com) 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fna3150&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE)](https://hits.seeyoufarm.com) 
 	
   </div>
