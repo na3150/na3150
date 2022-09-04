@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=Ansible&logoColor=white""/></a>&nbsp
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white""/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white""/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kubernetes-3371E3?style=flat-square&logo=Kubernetes&logoColor=white""/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Jenkins-FFFED7?style=flat-square&logo=Jenkins&logoColor=Black""/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-3371E3?style=flat-square&logo=Kubernetes&logoColor=white""/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-FFC6C6?style=flat-square&logo=Jenkins&logoColor=Black""/></a>&nbsp
   <img src="https://img.shields.io/badge/ArgoCD-EBF7FF?style=flat-square&logo=Argo&logoColor=Black""/></a>&nbsp
 </p>
 <br>
