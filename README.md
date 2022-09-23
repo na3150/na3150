@@ -22,10 +22,9 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/android-476600?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Linux-E6B91E?style=flat-square&logo=Linux&logoColor=white""/></a>&nbsp  
+  <img src="https://img.shields.io/badge/android-476600?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-E6B91E?style=flat-square&logo=Linux&logoColor=white""/></a>&nbsp 
+  <br> 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=Ansible&logoColor=white""/></a>&nbsp
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white""/></a>&nbsp
@@ -34,6 +33,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-3371E3?style=flat-square&logo=Kubernetes&logoColor=white""/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-FFC6C6?style=flat-square&logo=Jenkins&logoColor=Black""/></a>&nbsp
   <img src="https://img.shields.io/badge/ArgoCD-EBF7FF?style=flat-square&logo=Argo&logoColor=Black""/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vagrant-8BBDFF?style=flat-square&logo=Vagrant&logoColor=Black""/></a>&nbsp
 </p>
 <br>
 
