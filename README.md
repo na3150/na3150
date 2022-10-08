@@ -2,7 +2,7 @@
 <br>
 <h3 align="center"> Hi there 😊</h3> 
 <div align="center">
-💬 I am a student interested in cloud computing and Devops
+💬 I am a student interested in cloud computing and devops
 <br>
 💬 I majored in chemistry and double majored in computer science.
 	</div>
