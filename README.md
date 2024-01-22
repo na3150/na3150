@@ -1,12 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79eaf8,100:2cc8db&height=200&section=header&text=Na%20Young%20Sung&fontSize=50&fontColor=ffffff&fontAlign=30"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79eaf8,100:2cc8db&height=200&section=header&text=Nayoung%20Sung&fontSize=50&fontColor=ffffff&fontAlign=30"/>  
 
 ## Hi, Im Nayoung!😊
-☁️ I am engrossed in cloud computing and constantly studying.
+👩🏻‍🎓 Sungshin Women's University
 <br>
-☁️ Growing up to be an expert as a <i>**SRE**</i> and <i>**DevOps Engineer**</i>
+👩🏻‍💻 Majored in Chemistry & Computer Science Engineering
+<br>
+☁️ Cloud Club 2nd Member & 3rd, 4th, 5th Management ( 2022.09 - )
+<br>
+🚀 Now working at @LG CNS as a Cloud Application Architect
+
+
 <h3 >Me</h3>
 <a href="https://nayoungs.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-  <a href="mailto:na3150@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"&logo=Gmail&logoColor=white&link=na3150@gamil.com"/></a>
+  <a href="mailto:na3150@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"&logo=Gmail&logoColor=white&link=na3150@gamil.com"/></a> 
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nayoungsung) 
 </p>
 
 <h3>Tech Stack</h3>
