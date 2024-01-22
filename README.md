@@ -9,15 +9,16 @@
 <br>
 🚀 Now working at @LG CNS as a Cloud Application Architect
 
+<br>
 
-<h3 >Me</h3>
+<h3 >Me 🧸</h3>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nayoungsung) 
 <a href="https://nayoungs.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=tistory" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-  <a href="mailto:na3150@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"&logo=Gmail&logoColor=white&link=na3150@gamil.com"/></a> 
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nayoungsung) 
 </p>
 
-<h3>Tech Stack</h3>
+<br>
+<h3>Tech Stack 🧩</h3>
 <div>
 <img align='right' img src="https://github-readme-stats.vercel.app/api?username=na3150&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
