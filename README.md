@@ -5,7 +5,7 @@
 <br>
 👩🏻‍💻 Majored in Chemistry & Computer Science Engineering
 <br>
-☁️ Cloud Club 2nd Member & {3,4,5,6}th Management ( 2022.09 - )
+☁️ Cloud Club 2nd Member & {3,4,5,6,7}th Management ( 2022.09 - )
 <br>
 🚀 Now working at @LG CNS as a Cloud Application Architect
 
